@@ -4,4 +4,4 @@
 
 import os
 import GIME
-GIME.loging.()
+GIME.loging()
